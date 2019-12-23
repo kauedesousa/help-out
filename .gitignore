@@ -11,10 +11,8 @@
 
 # unchecked folders 
 anova/
-bestNormalize/
-biplot/
+try-qvcalc/
 cacao_ecuador/
 function_help-/
-try-qvcalc/
-fix_spp_names/
+seed_longevity/
 .Rproj.user

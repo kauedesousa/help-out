@@ -1,0 +1,331 @@
+"input_taxon","input_status","family","genus","hybrid_marker","species","infraspecific_rank","infraspecific","authority","taxonomic_status","taxa","duplicated"
+"Leucojum vernum L.","Accepted","Amaryllidaceae","Leucojum","","vernum","","","L.","Accepted","Leucojum  vernum  ",FALSE
+"Astragalus baeticus L.","Synonym","Leguminosae","Astragalus","","boeticus","","","L.","Accepted","Astragalus  boeticus  ",FALSE
+"Impatiens balsamina L.","Accepted","Balsaminaceae","Impatiens","","balsamina","","","L.","Accepted","Impatiens  balsamina  ",FALSE
+"Lotus edulis","Accepted","Leguminosae","Lotus","","edulis","","","L.","Accepted","Lotus  edulis  ",FALSE
+"Erodium gruinum L'Her. ex Ait.","Accepted","Geraniaceae","Erodium","","gruinum","","","(L.) L'Hér.","Accepted","Erodium  gruinum  ",FALSE
+"Abutilon avicennae Gaertn.","Synonym","Malvaceae","Abutilon","","theophrasti","","","Medik.","Accepted","Abutilon  theophrasti  ",FALSE
+"Urtica pilulifera L.","Accepted","Urticaceae","Urtica","","pilulifera","","","L.","Accepted","Urtica  pilulifera  ",FALSE
+"Chelidonium majus","Accepted","Papaveraceae","Chelidonium","","majus","","","L.","Accepted","Chelidonium  majus  ",FALSE
+"Scrophularia vernalis L.","Accepted","Scrophulariaceae","Scrophularia","","vernalis","","","L.","Accepted","Scrophularia  vernalis  ",FALSE
+"Platycapnos spicata L.","Synonym","Papaveraceae","Platycapnos","","spicatus","","","(L.) Bernh.","Accepted","Platycapnos  spicatus  ",FALSE
+"Centaurea pullata L.","Accepted","Compositae","Centaurea","","pullata","","","L.","Accepted","Centaurea  pullata  ",FALSE
+"Lathyrus ochrus","Accepted","Leguminosae","Lathyrus","","ochrus","","","(L.) DC.","Accepted","Lathyrus  ochrus  ",FALSE
+"Humulus lupulus L.","Accepted","Cannabaceae","Humulus","","lupulus","","","L.","Accepted","Humulus  lupulus  ",FALSE
+"Melissa officinalis L.","Accepted","Lamiaceae","Melissa","","officinalis","","","L.","Accepted","Melissa  officinalis  ",FALSE
+"Tanacetum balsamita L","Accepted","Compositae","Tanacetum","","balsamita","","","L.","Accepted","Tanacetum  balsamita  ",FALSE
+"Agrimonia eupatoria L.","Accepted","Rosaceae","Agrimonia","","eupatoria","","","L.","Accepted","Agrimonia  eupatoria  ",FALSE
+"Ballota nigra L.","Accepted","Lamiaceae","Ballota","","nigra","","","L.","Accepted","Ballota  nigra  ",FALSE
+"Cynoglossum officinale L.","Accepted","Boraginaceae","Cynoglossum","","officinale","","","L.","Accepted","Cynoglossum  officinale  ",FALSE
+"Hyoscyamus niger L.","Accepted","Solanaceae","Hyoscyamus","","niger","","","L.","Accepted","Hyoscyamus  niger  ",FALSE
+"Teucrium scordium L","Accepted","Lamiaceae","Teucrium","","scordium","","","L.","Accepted","Teucrium  scordium  ",FALSE
+"Symphytum officinale L.","Accepted","Boraginaceae","Symphytum","","officinale","","","L.","Accepted","Symphytum  officinale  ",FALSE
+"Inula helenium L.","Accepted","Compositae","Inula","","helenium","","","L.","Accepted","Inula  helenium  ",FALSE
+"Leonurus cardiaca L.","Accepted","Lamiaceae","Leonurus","","cardiaca","","","L.","Accepted","Leonurus  cardiaca  ",FALSE
+"Verbena officinalis L.","Accepted","Verbenaceae","Verbena","","officinalis","","","L.","Accepted","Verbena  officinalis  ",FALSE
+"Silybum marianum L.","Unresolved","","Silybum","","marianum","","","Gaertn.","Unresolved","Silybum  marianum  ",FALSE
+"Dipsacus silvestris Huds.","Synonym","Caprifoliaceae","Dipsacus","","fullonum","","","L.","Accepted","Dipsacus  fullonum  ",FALSE
+"Valeriana officinalis L.","Accepted","Caprifoliaceae","Valeriana","","officinalis","","","L.","Accepted","Valeriana  officinalis  ",FALSE
+"Borago officinalis L.","Accepted","Boraginaceae","Borago","","officinalis","","","L.","Accepted","Borago  officinalis  ",FALSE
+"Stachys officinalis L.","Accepted","Lamiaceae","Stachys","","officinalis","","","(L.) Trevis.","Accepted","Stachys  officinalis  ",FALSE
+"Pulsatilla vulgaris Mill.","Synonym","Ranunculaceae","Anemone","","pulsatilla","","","L.","Accepted","Anemone  pulsatilla  ",FALSE
+"Sanguisorba officinalis L.","Accepted","Rosaceae","Sanguisorba","","officinalis","","","L.","Accepted","Sanguisorba  officinalis  ",FALSE
+"Mentha viridis L. var. Crispata","Synonym","Lamiaceae","Mentha","","spicata","","","L.","Accepted","Mentha  spicata  ",FALSE
+"Helleborus foetidus L.","Accepted","Ranunculaceae","Helleborus","","foetidus","","","L.","Accepted","Helleborus  foetidus  ",FALSE
+"Hyssopus officinalis L.","Accepted","Lamiaceae","Hyssopus","","officinalis","","","L.","Accepted","Hyssopus  officinalis  ",FALSE
+"Tanacetum vulgare L.","Accepted","Compositae","Tanacetum","","vulgare","","","L.","Accepted","Tanacetum  vulgare  ",FALSE
+"Anthemis nobilis","Synonym","Compositae","Chamaemelum","","nobile","","","(L.) All.","Accepted","Chamaemelum  nobile  ",FALSE
+"Lycopus europaeus L.","Accepted","Lamiaceae","Lycopus","","europaeus","","","L.","Accepted","Lycopus  europaeus  ",FALSE
+"Myrrhis odorata","Accepted","Apiaceae","Myrrhis","","odorata","","","(L.) Scop.","Accepted","Myrrhis  odorata  ",FALSE
+"Potentilla erecta","Accepted","Rosaceae","Potentilla","","erecta","","","(L.) Raeusch.","Accepted","Potentilla  erecta  ",FALSE
+"Fumaria officinalis L.","Accepted","Papaveraceae","Fumaria","","officinalis","","","L.","Accepted","Fumaria  officinalis  ",FALSE
+"Atropa belladonna L.","Accepted","Solanaceae","Atropa","","belladonna","","","L.","Accepted","Atropa  belladonna  ",FALSE
+"Sylvestris ssp. mauritania L .A. et Gr.","","","Sylvestris","","mauritania","ssp.","","","","Sylvestris  mauritania ssp. ",FALSE
+"Poterium sanguisorba L.","Synonym","Rosaceae","Sanguisorba","","minor","","","Scop.","Accepted","Sanguisorba  minor  ",FALSE
+"Arum maculatum L.","Accepted","Araceae","Arum","","maculatum","","","L.","Accepted","Arum  maculatum  ",FALSE
+"allium ursinum L","Accepted","Amaryllidaceae","Allium","","ursinum","","","L.","Accepted","Allium  ursinum  ",FALSE
+"Saponaria officinalis L","Accepted","Caryophyllaceae","Saponaria","","officinalis","","","L.","Accepted","Saponaria  officinalis  ",FALSE
+"Mandragora officinarum L.","Accepted","Solanaceae","Mandragora","","officinarum","","","L.","Accepted","Mandragora  officinarum  ",FALSE
+"Armoracia rusticana G.","Accepted","Brassicaceae","Armoracia","","rusticana","","","P.Gaertn., B.Mey. & Scherb.","Accepted","Armoracia  rusticana  ",FALSE
+"Polemonium coeruleum L.","Accepted","Polemoniaceae","Polemonium","","caeruleum","","","L.","Accepted","Polemonium  caeruleum  ",FALSE
+"Corydalis cava Schw.et K.","Accepted","Papaveraceae","Corydalis","","cava","","","(L.) Schweigg. & Körte","Accepted","Corydalis  cava  ",FALSE
+"Achillea millefolium L.","Accepted","Compositae","Achillea","","millefolium","","","L.","Accepted","Achillea  millefolium  ",FALSE
+"Veronica officinalis L","Accepted","Plantaginaceae","Veronica","","officinalis","","","L.","Accepted","Veronica  officinalis  ",FALSE
+"Rhodiola rosea L.","Synonym","Crassulaceae","Sedum","","roseum","","","(L.) Scop.","Accepted","Sedum  roseum  ",FALSE
+"Bryonia alba L.","Accepted","Cucurbitaceae","Bryonia","","alba","","","L.","Accepted","Bryonia  alba  ",FALSE
+"Calendula officinalis L","Accepted","Compositae","Calendula","","officinalis","","","L.","Accepted","Calendula  officinalis  ",FALSE
+"Althaea officinalis L","Accepted","Malvaceae","Althaea","","officinalis","","","L.","Accepted","Althaea  officinalis  ",FALSE
+"Coronilla varia L.","Synonym","Leguminosae","Securigera","","varia","","","(L.) Lassen","Accepted","Securigera  varia  ",FALSE
+"Solidago virgaurea L","Accepted","Compositae","Solidago","","virgaurea","","","L.","Accepted","Solidago  virgaurea  ",FALSE
+"Verbascum thapsus L.","Accepted","Scrophulariaceae","Verbascum","","thapsus","","","L.","Accepted","Verbascum  thapsus  ",FALSE
+"Solanum dulcamara L","Accepted","Solanaceae","Solanum","","dulcamara","","","L.","Accepted","Solanum  dulcamara  ",FALSE
+"Galium verum","Accepted","Rubiaceae","Galium","","verum","","","L.","Accepted","Galium  verum  ",FALSE
+"Artemisia dracunculus L.","Accepted","Compositae","Artemisia","","dracunculus","","","L.","Accepted","Artemisia  dracunculus  ",FALSE
+"Ligusticum scoticum L","Accepted","Apiaceae","Ligusticum","","scoticum","","","L.","Accepted","Ligusticum  scoticum  ",FALSE
+"Agrostemma githago L.","Accepted","Caryophyllaceae","Agrostemma","","githago","","","L.","Accepted","Agrostemma  githago  ",FALSE
+"Lysimachia vulgaris L.","Accepted","Primulaceae","Lysimachia","","vulgaris","","","L.","Accepted","Lysimachia  vulgaris  ",FALSE
+"Cynanchum vincetoxicum Pers.","Synonym","Apocynaceae","Vincetoxicum","","hirundinaria","","","Medik.","Accepted","Vincetoxicum  hirundinaria  ",FALSE
+"Papaver somniferum L.","Accepted","Papaveraceae","Papaver","","somniferum","","","L.","Accepted","Papaver  somniferum  ",FALSE
+"Imperatoria ostruthium L.","Synonym","Apiaceae","Peucedanum","","ostruthium","","","(L.) W.D.J.Koch","Accepted","Peucedanum  ostruthium  ",FALSE
+"Ornithogalum nutans L.","Accepted","Asparagaceae","Ornithogalum","","nutans","","","L.","Accepted","Ornithogalum  nutans  ",FALSE
+"Plantago major L. f .rosea","Accepted","Plantaginaceae","Plantago","","major","","","L.","Accepted","Plantago  major  ",FALSE
+"Asarum europaeum L.","Accepted","Aristolochiaceae","Asarum","","europaeum","","","L.","Accepted","Asarum  europaeum  ",FALSE
+"Artemisia abrotanum L.","Accepted","Compositae","Artemisia","","abrotanum","","","L.","Accepted","Artemisia  abrotanum  ",FALSE
+"Dictamnus albus L.","Accepted","Rutaceae","Dictamnus","","albus","","","L.","Accepted","Dictamnus  albus  ",FALSE
+"Lathyrus annuus L.","Accepted","Leguminosae","Lathyrus","","annuus","","","L.","Accepted","Lathyrus  annuus  ",FALSE
+"Scorzonera hispanica L.","Accepted","Compositae","Scorzonera","","hispanica","","","L.","Accepted","Scorzonera  hispanica  ",FALSE
+"Herniaria glabra L","Accepted","Caryophyllaceae","Herniaria","","glabra","","","L.","Accepted","Herniaria  glabra  ",FALSE
+"Allium oleraceum L.","Accepted","Amaryllidaceae","Allium","","oleraceum","","","L.","Accepted","Allium  oleraceum  ",FALSE
+"Solanum nigrum L","Synonym","Solanaceae","Solanum","","americanum","","","Mill.","Accepted","Solanum  americanum  ",FALSE
+"Astrantia major L","Accepted","Apiaceae","Astrantia","","major","","","L.","Accepted","Astrantia  major  ",FALSE
+"Nicotiana tabacum L","Accepted","Solanaceae","Nicotiana","","tabacum","","","L.","Accepted","Nicotiana  tabacum  ",FALSE
+"Viola tricolor L.","Accepted","Violaceae","Viola","","tricolor","","","L.","Accepted","Viola  tricolor  ",FALSE
+"Sium sisarum L. ex Rubrifolia","Accepted","Apiaceae","Sium","","sisarum","","","L.","Accepted","Sium  sisarum  ",FALSE
+"Pulmonaria officinalis L.","Accepted","Boraginaceae","Pulmonaria","","officinalis","","","L.","Accepted","Pulmonaria  officinalis  ",FALSE
+"Marrubium vulgare L.","Accepted","Lamiaceae","Marrubium","","vulgare","","","L.","Accepted","Marrubium  vulgare  ",FALSE
+"Salvia sclarea L.","Accepted","Lamiaceae","Salvia","","sclarea","","","L.","Accepted","Salvia  sclarea  ",FALSE
+"Lythrum salicaria L.","Accepted","Lythraceae","Lythrum","","salicaria","","","L.","Accepted","Lythrum  salicaria  ",FALSE
+"Scrophularia nodosa L.","Accepted","Scrophulariaceae","Scrophularia","","nodosa","","","L.","Accepted","Scrophularia  nodosa  ",FALSE
+"Teucrium scorodonia L.","Accepted","Lamiaceae","Teucrium","","scorodonia","","","L.","Accepted","Teucrium  scorodonia  ",FALSE
+"Anemone nemorosa L.","Accepted","Ranunculaceae","Anemone","","nemorosa","","","L.","Accepted","Anemone  nemorosa  ",FALSE
+"Aconitum napellus","Accepted","Ranunculaceae","Aconitum","","napellus","","","L.","Accepted","Aconitum  napellus  ",FALSE
+"Acorus calamus","Accepted","Acoraceae","Acorus","","calamus","","","L.","Accepted","Acorus  calamus  ",FALSE
+"Aegopodium podagraria","Accepted","Apiaceae","Aegopodium","","podagraria","","","L.","Accepted","Aegopodium  podagraria  ",FALSE
+"Aethusa cynapium var. gigantea","Synonym","Apiaceae","Aethusa","","cynapium","","","L.","Accepted","Aethusa  cynapium  ",FALSE
+"Ajuga reptans","Accepted","Lamiaceae","Ajuga","","reptans","","","L.","Accepted","Ajuga  reptans  ",FALSE
+"Alliaria petiolata","Accepted","Brassicaceae","Alliaria","","petiolata","","","(M.Bieb.) Cavara & Grande","Accepted","Alliaria  petiolata  ",FALSE
+"Allium scorodoprasum","Accepted","Amaryllidaceae","Allium","","scorodoprasum","","","L.","Accepted","Allium  scorodoprasum  ",FALSE
+"Allium ursinum","Accepted","Amaryllidaceae","Allium","","ursinum","","","L.","Accepted","Allium  ursinum  ",TRUE
+"Althaea officinalis","Accepted","Malvaceae","Althaea","","officinalis","","","L.","Accepted","Althaea  officinalis  ",TRUE
+"Althaea rosea","Synonym","Malvaceae","Alcea","","rosea","","","L.","Accepted","Alcea  rosea  ",FALSE
+"Anchusa officinalis","Accepted","Boraginaceae","Anchusa","","officinalis","","","L.","Accepted","Anchusa  officinalis  ",FALSE
+"Anemone hepatica","Accepted","Ranunculaceae","Anemone","","hepatica","","","L.","Accepted","Anemone  hepatica  ",FALSE
+"Anemone nemorosa","Accepted","Ranunculaceae","Anemone","","nemorosa","","","L.","Accepted","Anemone  nemorosa  ",TRUE
+"Anemone ranunculoides","Accepted","Ranunculaceae","Anemone","","ranunculoides","","","L.","Accepted","Anemone  ranunculoides  ",FALSE
+"Angelica archangelica ssp. litoralis","Accepted","Apiaceae","Angelica","","archangelica","subsp.","litoralis","(Wahlenb.) Thell.","Accepted","Angelica  archangelica subsp. litoralis",FALSE
+"Anthemis tinctoria","Synonym","Compositae","Cota","","tinctoria","","","(L.) J.Gay","Accepted","Cota  tinctoria  ",FALSE
+"Anthriscus caucalis","Accepted","Apiaceae","Anthriscus","","caucalis","","","M.Bieb.","Accepted","Anthriscus  caucalis  ",FALSE
+"Apium repens","Accepted","Apiaceae","Apium","","repens","","","(Jacq.) Lag.","Accepted","Apium  repens  ",FALSE
+"Aquilegia vulgaris","Accepted","Ranunculaceae","Aquilegia","","vulgaris","","","L.","Accepted","Aquilegia  vulgaris  ",FALSE
+"Arctium lappa","Accepted","Compositae","Arctium","","lappa","","","L.","Accepted","Arctium  lappa  ",FALSE
+"Arctium minus","Accepted","Compositae","Arctium","","minus","","","(Hill) Bernh.","Accepted","Arctium  minus  ",FALSE
+"Arctium pubens","Synonym","Compositae","Arctium","","minus","","","(Hill) Bernh.","Accepted","Arctium  minus  ",TRUE
+"Arctium tomentosum","Accepted","Compositae","Arctium","","tomentosum","","","Mill.","Accepted","Arctium  tomentosum  ",FALSE
+"Aristolochia clematitis","Accepted","Aristolochiaceae","Aristolochia","","clematitis","","","L.","Accepted","Aristolochia  clematitis  ",FALSE
+"Armoracia rusticana","Accepted","Brassicaceae","Armoracia","","rusticana","","","P.Gaertn., B.Mey. & Scherb.","Accepted","Armoracia  rusticana  ",TRUE
+"Artemisia abrotanum","Accepted","Compositae","Artemisia","","abrotanum","","","L.","Accepted","Artemisia  abrotanum  ",TRUE
+"Artemisia absinthium","Accepted","Compositae","Artemisia","","absinthium","","","L.","Accepted","Artemisia  absinthium  ",FALSE
+"Arum alpinum ssp danicum","Synonym","Araceae","Arum","","cylindraceum","","","Gasp.","Accepted","Arum  cylindraceum  ",FALSE
+"Arum alpinum ssp maculatum","Synonym","Araceae","Arum","","cylindraceum","","","Gasp.","Accepted","Arum  cylindraceum  ",TRUE
+"Asarum europaeum","Accepted","Aristolochiaceae","Asarum","","europaeum","","","L.","Accepted","Asarum  europaeum  ",TRUE
+"Asparagus officinalis","Accepted","Asparagaceae","Asparagus","","officinalis","","","L.","Accepted","Asparagus  officinalis  ",FALSE
+"Asperugo procumbens","Accepted","Boraginaceae","Asperugo","","procumbens","","","L.","Accepted","Asperugo  procumbens  ",FALSE
+"Asperula odorata","Synonym","Rubiaceae","Galium","","odoratum","","","(L.) Scop.","Accepted","Galium  odoratum  ",FALSE
+"Ballota nigra ssp foetida","Accepted","Lamiaceae","Ballota","","nigra","subsp.","foetida","(Vis.) Hayek","Accepted","Ballota  nigra subsp. foetida",FALSE
+"Ballota nigra ssp nigra","Synonym","Lamiaceae","Ballota","","nigra","","","L.","Accepted","Ballota  nigra  ",TRUE
+"Berberis vulgaris","Accepted","Berberidaceae","Berberis","","vulgaris","","","L.","Accepted","Berberis  vulgaris  ",FALSE
+"Brassica campestris","Synonym","Brassicaceae","Brassica","","rapa","","","L.","Accepted","Brassica  rapa  ",FALSE
+"Brassica nigra","Accepted","Brassicaceae","Brassica","","nigra","","","(L.) K.Koch","Accepted","Brassica  nigra  ",FALSE
+"Bryonia alba","Accepted","Cucurbitaceae","Bryonia","","alba","","","L.","Accepted","Bryonia  alba  ",TRUE
+"Bryonia dioica","Synonym","Cucurbitaceae","Bryonia","","cretica","subsp.","dioica","(Jacq.) Tutin","Accepted","Bryonia  cretica subsp. dioica",FALSE
+"Bunium bulbocastanum","Accepted","Apiaceae","Bunium","","bulbocastanum","","","L.","Accepted","Bunium  bulbocastanum  ",FALSE
+"Bupleurum rotundifolium","Accepted","Apiaceae","Bupleurum","","rotundifolium","","","L.","Accepted","Bupleurum  rotundifolium  ",FALSE
+"Calla palustris","Accepted","Araceae","Calla","","palustris","","","L.","Accepted","Calla  palustris  ",FALSE
+"Camelina sativa ssp. sativa","Synonym","Brassicaceae","Camelina","","sativa","","","(L.) Crantz","Accepted","Camelina  sativa  ",FALSE
+"Campanula glomerata","Accepted","Campanulaceae","Campanula","","glomerata","","","L.","Accepted","Campanula  glomerata  ",FALSE
+"Campanula latifolia","Accepted","Campanulaceae","Campanula","","latifolia","","","L.","Accepted","Campanula  latifolia  ",FALSE
+"Campanula latifolia var macrantha","Synonym","Campanulaceae","Campanula","","latifolia","","","L.","Accepted","Campanula  latifolia  ",TRUE
+"Campanula rapunculoides","Accepted","Campanulaceae","Campanula","","rapunculoides","","","L.","Accepted","Campanula  rapunculoides  ",FALSE
+"Campanula rapunculus","Accepted","Campanulaceae","Campanula","","rapunculus","","","L.","Accepted","Campanula  rapunculus  ",FALSE
+"Carum carvi","Accepted","Apiaceae","Carum","","carvi","","","L.","Accepted","Carum  carvi  ",FALSE
+"Chaerophyllum bulbosum","Accepted","Apiaceae","Chaerophyllum","","bulbosum","","","L.","Accepted","Chaerophyllum  bulbosum  ",FALSE
+"Chaerophyllum temulentum","Synonym","Apiaceae","Chaerophyllum","","temulum","","","L.","Accepted","Chaerophyllum  temulum  ",FALSE
+"Chamomilla recutita","Synonym","Compositae","Matricaria","","chamomilla","","","L.","Accepted","Matricaria  chamomilla  ",FALSE
+"Cheiranthus cheiri","Synonym","Brassicaceae","Erysimum","×","cheiri","","","(L.) Crantz","Accepted","Erysimum × cheiri  ",FALSE
+"Chelidonium majus","Accepted","Papaveraceae","Chelidonium","","majus","","","L.","Accepted","Chelidonium  majus  ",TRUE
+"Chenopodium bonus-henricus","Accepted","Amaranthaceae","Chenopodium","","bonus-henricus","","","L.","Accepted","Chenopodium  bonus-henricus  ",FALSE
+"Chenopodium hybridum","Accepted","Amaranthaceae","Chenopodium","","hybridum","","","L.","Accepted","Chenopodium  hybridum  ",FALSE
+"Chenopodium murale","Accepted","Amaranthaceae","Chenopodium","","murale","","","L.","Accepted","Chenopodium  murale  ",FALSE
+"Chenopodium polyspermum","Accepted","Amaranthaceae","Chenopodium","","polyspermum","","","L.","Accepted","Chenopodium  polyspermum  ",FALSE
+"Cichorium intybus","Accepted","Compositae","Cichorium","","intybus","","","L.","Accepted","Cichorium  intybus  ",FALSE
+"Cirsium heterophyllum","Accepted","Compositae","Cirsium","","heterophyllum","","","(L.) Hill","Accepted","Cirsium  heterophyllum  ",FALSE
+"Clematis vitalba","Accepted","Ranunculaceae","Clematis","","vitalba","","","L.","Accepted","Clematis  vitalba  ",FALSE
+"Colchicum autumnale","Accepted","Colchicaceae","Colchicum","","autumnale","","","L.","Accepted","Colchicum  autumnale  ",FALSE
+"Conium maculatum","Accepted","Apiaceae","Conium","","maculatum","","","L.","Accepted","Conium  maculatum  ",FALSE
+"Conopodium majus","Accepted","Apiaceae","Conopodium","","majus","","","(Gouan) Loret","Accepted","Conopodium  majus  ",FALSE
+"Convallaria majalis","Accepted","Asparagaceae","Convallaria","","majalis","","","L.","Accepted","Convallaria  majalis  ",FALSE
+"Cornus sanguinea","Accepted","Cornaceae","Cornus","","sanguinea","","","L.","Accepted","Cornus  sanguinea  ",FALSE
+"Corydalis cava","Accepted","Papaveraceae","Corydalis","","cava","","","(L.) Schweigg. & Körte","Accepted","Corydalis  cava  ",TRUE
+"Corydalis lutea","Synonym","Papaveraceae","Pseudofumaria","","lutea","","","(L.) Borkh.","Accepted","Pseudofumaria  lutea  ",FALSE
+"Corydalis pumila","Accepted","Papaveraceae","Corydalis","","pumila","","","(Host) Rchb.","Accepted","Corydalis  pumila  ",FALSE
+"Corydalis solida","Accepted","Papaveraceae","Corydalis","","solida","","","(L.) Clairv.","Accepted","Corydalis  solida  ",FALSE
+"Corylus avellana","Accepted","Betulaceae","Corylus","","avellana","","","L.","Accepted","Corylus  avellana  ",FALSE
+"Crocus vernus","Accepted","Iridaceae","Crocus","","vernus","","","(L.) Hill","Accepted","Crocus  vernus  ",FALSE
+"Cydonia oblonga","Accepted","Rosaceae","Cydonia","","oblonga","","","Mill.","Accepted","Cydonia  oblonga  ",FALSE
+"Cymbalaria muralis","Accepted","Plantaginaceae","Cymbalaria","","muralis","","","P.Gaertn., B.Mey. & Scherb.","Accepted","Cymbalaria  muralis  ",FALSE
+"Cynoglossum officinale","Accepted","Boraginaceae","Cynoglossum","","officinale","","","L.","Accepted","Cynoglossum  officinale  ",TRUE
+"Daphne laureola","Accepted","Thymelaeaceae","Daphne","","laureola","","","L.","Accepted","Daphne  laureola  ",FALSE
+"Daphne mezereum","Accepted","Thymelaeaceae","Daphne","","mezereum","","","L.","Accepted","Daphne  mezereum  ",FALSE
+"Datura stramonium","Accepted","Solanaceae","Datura","","stramonium","","","L.","Accepted","Datura  stramonium  ",FALSE
+"Dianthus barbatus","Accepted","Caryophyllaceae","Dianthus","","barbatus","","","L.","Accepted","Dianthus  barbatus  ",FALSE
+"Digitalis purpurea","Accepted","Plantaginaceae","Digitalis","","purpurea","","","L.","Accepted","Digitalis  purpurea  ",FALSE
+"Dipsacus fullonum","Accepted","Caprifoliaceae","Dipsacus","","fullonum","","","L.","Accepted","Dipsacus  fullonum  ",TRUE
+"Doronicum pardalianches","Accepted","Compositae","Doronicum","","pardalianches","","","L.","Accepted","Doronicum  pardalianches  ",FALSE
+"Eranthis hyemalis","Accepted","Ranunculaceae","Eranthis","","hyemalis","","","(L.) Salisb.","Accepted","Eranthis  hyemalis  ",FALSE
+"Euphorbia cyparissias","Accepted","Euphorbiaceae","Euphorbia","","cyparissias","","","L.","Accepted","Euphorbia  cyparissias  ",FALSE
+"Euphorbia dulcis","Accepted","Euphorbiaceae","Euphorbia","","dulcis","","","L.","Accepted","Euphorbia  dulcis  ",FALSE
+"Euphorbia esula","Accepted","Euphorbiaceae","Euphorbia","","esula","","","L.","Accepted","Euphorbia  esula  ",FALSE
+"Euphorbia lathyris","Accepted","Euphorbiaceae","Euphorbia","","lathyris","","","L.","Accepted","Euphorbia  lathyris  ",FALSE
+"Fragaria moschata","Accepted","Rosaceae","Fragaria","","moschata","","","(Duchesne) Duchesne","Accepted","Fragaria  moschata  ",FALSE
+"Fritillaria imperialis","Accepted","Liliaceae","Fritillaria","","imperialis","","","L.","Accepted","Fritillaria  imperialis  ",FALSE
+"Fritillaria meleagris","Accepted","Liliaceae","Fritillaria","","meleagris","","","L.","Accepted","Fritillaria  meleagris  ",FALSE
+"Fumaria officinalis","Accepted","Papaveraceae","Fumaria","","officinalis","","","L.","Accepted","Fumaria  officinalis  ",TRUE
+"Galanthus nivalis","Accepted","Amaryllidaceae","Galanthus","","nivalis","","","L.","Accepted","Galanthus  nivalis  ",FALSE
+"Galega officinalis","Accepted","Leguminosae","Galega","","officinalis","","","L.","Accepted","Galega  officinalis  ",FALSE
+"Geranium phaeum","Accepted","Geraniaceae","Geranium","","phaeum","","","L.","Accepted","Geranium  phaeum  ",FALSE
+"Geranium pratense","Accepted","Geraniaceae","Geranium","","pratense","","","L.","Accepted","Geranium  pratense  ",FALSE
+"Geranium sanguineum","Accepted","Geraniaceae","Geranium","","sanguineum","","","L.","Accepted","Geranium  sanguineum  ",FALSE
+"Geranium sylvatica","Accepted","Geraniaceae","Geranium","","sylvaticum","","","L.","Accepted","Geranium  sylvaticum  ",FALSE
+"Helleborus foetidus","Accepted","Ranunculaceae","Helleborus","","foetidus","","","L.","Accepted","Helleborus  foetidus  ",TRUE
+"Helleborus viridis","Accepted","Ranunculaceae","Helleborus","","viridis","","","L.","Accepted","Helleborus  viridis  ",FALSE
+"Hesperis matronalis","Accepted","Brassicaceae","Hesperis","","matronalis","","","L.","Accepted","Hesperis  matronalis  ",FALSE
+"Hippophae rhamnoides","Synonym","Elaeagnaceae","Elaeagnus","","rhamnoides","","","(L.) A.Nelson","Accepted","Elaeagnus  rhamnoides  ",FALSE
+"Humulus lupulus","Accepted","Cannabaceae","Humulus","","lupulus","","","L.","Accepted","Humulus  lupulus  ",TRUE
+"Hyoscyamus niger","Accepted","Solanaceae","Hyoscyamus","","niger","","","L.","Accepted","Hyoscyamus  niger  ",TRUE
+"Hyssopus officinalis","Accepted","Lamiaceae","Hyssopus","","officinalis","","","L.","Accepted","Hyssopus  officinalis  ",TRUE
+"Ilex aquifolium","Accepted","Aquifoliaceae","Ilex","","aquifolium","","","L.","Accepted","Ilex  aquifolium  ",FALSE
+"Inula britannica","Accepted","Compositae","Inula","","britannica","","","L.","Accepted","Inula  britannica  ",FALSE
+"Inula helenium","Accepted","Compositae","Inula","","helenium","","","L.","Accepted","Inula  helenium  ",TRUE
+"Iris germanica","Accepted","Iridaceae","Iris","×","germanica","","","L.","Accepted","Iris × germanica  ",FALSE
+"Isatis tinctoria","Accepted","Brassicaceae","Isatis","","tinctoria","","","L.","Accepted","Isatis  tinctoria  ",FALSE
+"Lamiastrum galeobdolon","Synonym","Lamiaceae","Lamium","","galeobdolon","","","(L.) L.","Accepted","Lamium  galeobdolon  ",FALSE
+"Lamium album","Accepted","Lamiaceae","Lamium","","album","","","L.","Accepted","Lamium  album  ",FALSE
+"Lathyrus latifolius","Accepted","Leguminosae","Lathyrus","","latifolius","","","L.","Accepted","Lathyrus  latifolius  ",FALSE
+"Lathyrus tuberosus","Accepted","Leguminosae","Lathyrus","","tuberosus","","","L.","Accepted","Lathyrus  tuberosus  ",FALSE
+"Leonurus cardiaca s. str.","Accepted","Lamiaceae","Leonurus","","cardiaca","","","L.","Accepted","Leonurus  cardiaca  ",TRUE
+"Leonurus marrubiastrum","Synonym","Lamiaceae","Chaiturus","","marrubiastrum","","","(L.) Ehrh. ex Rchb.","Accepted","Chaiturus  marrubiastrum  ",FALSE
+"Lepidium latifolium","Accepted","Brassicaceae","Lepidium","","latifolium","","","L.","Accepted","Lepidium  latifolium  ",FALSE
+"Leucojum aestivum","Accepted","Amaryllidaceae","Leucojum","","aestivum","","","L.","Accepted","Leucojum  aestivum  ",FALSE
+"Leucojum vernum","Accepted","Amaryllidaceae","Leucojum","","vernum","","","L.","Accepted","Leucojum  vernum  ",TRUE
+"Levisticum officinale","Accepted","Apiaceae","Levisticum","","officinale","","","W.D.J.Koch","Accepted","Levisticum  officinale  ",FALSE
+"Lilium bulbiferum","Accepted","Liliaceae","Lilium","","bulbiferum","","","L.","Accepted","Lilium  bulbiferum  ",FALSE
+"Lilium candidum","Accepted","Liliaceae","Lilium","","candidum","","","L.","Accepted","Lilium  candidum  ",FALSE
+"Lilium martagon","Accepted","Liliaceae","Lilium","","martagon","","","L.","Accepted","Lilium  martagon  ",FALSE
+"Lithospermum officinale","Accepted","Boraginaceae","Lithospermum","","officinale","","","L.","Accepted","Lithospermum  officinale  ",FALSE
+"Lonicera xylosteum","Accepted","Caprifoliaceae","Lonicera","","xylosteum","","","L.","Accepted","Lonicera  xylosteum  ",FALSE
+"Lunaria annua","Accepted","Brassicaceae","Lunaria","","annua","","","L.","Accepted","Lunaria  annua  ",FALSE
+"Lunaria rediviva","Accepted","Brassicaceae","Lunaria","","rediviva","","","L.","Accepted","Lunaria  rediviva  ",FALSE
+"Lychnis chalcedonica","Synonym","Caryophyllaceae","Silene","","chalcedonica","","","(L.) E.H.L.Krause","Accepted","Silene  chalcedonica  ",FALSE
+"Lycium barbarum","Accepted","Solanaceae","Lycium","","barbarum","","","L.","Accepted","Lycium  barbarum  ",FALSE
+"Lysimachia nummularia","Accepted","Primulaceae","Lysimachia","","nummularia","","","L.","Accepted","Lysimachia  nummularia  ",FALSE
+"Lysimachia punctata","Accepted","Primulaceae","Lysimachia","","punctata","","","L.","Accepted","Lysimachia  punctata  ",FALSE
+"Malus sylvestris","Accepted","Rosaceae","Malus","","sylvestris","","","(L.) Mill.","Accepted","Malus  sylvestris  ",FALSE
+"Malva moschata","Accepted","Malvaceae","Malva","","moschata","","","L.","Accepted","Malva  moschata  ",FALSE
+"Malva neglecta","Accepted","Malvaceae","Malva","","neglecta","","","Wallr.","Accepted","Malva  neglecta  ",FALSE
+"Malva pusilla","Accepted","Malvaceae","Malva","","pusilla","","","Sm.","Accepted","Malva  pusilla  ",FALSE
+"Malva sylvestris","Accepted","Malvaceae","Malva","","sylvestris","","","L.","Accepted","Malva  sylvestris  ",FALSE
+"Marrubium vulgare","Accepted","Lamiaceae","Marrubium","","vulgare","","","L.","Accepted","Marrubium  vulgare  ",TRUE
+"Matteuccia struthiopteris","Accepted","Onocleaceae","Matteuccia","","struthiopteris","","","(L.) Tod.","Accepted","Matteuccia  struthiopteris  ",FALSE
+"Melissa officinalis","Accepted","Lamiaceae","Melissa","","officinalis","","","L.","Accepted","Melissa  officinalis  ",TRUE
+"Mentha pulegium","Accepted","Lamiaceae","Mentha","","pulegium","","","L.","Accepted","Mentha  pulegium  ",FALSE
+"Mentha spicata","Accepted","Lamiaceae","Mentha","","spicata","","","L.","Accepted","Mentha  spicata  ",TRUE
+"Mentha suaveolens","Accepted","Lamiaceae","Mentha","","suaveolens","","","Ehrh.","Accepted","Mentha  suaveolens  ",FALSE
+"Mentha x gentilis","Accepted","Lamiaceae","Mentha","×","gentilis","","","L.","Accepted","Mentha × gentilis  ",FALSE
+"Mentha x piperita","Accepted","Lamiaceae","Mentha","×","piperita","","","L.","Accepted","Mentha × piperita  ",FALSE
+"Mentha x piperita var crispula","Synonym","Lamiaceae","Mentha","×","piperita","","","L.","Accepted","Mentha × piperita  ",TRUE
+"Mentha x villosa","Accepted","Lamiaceae","Mentha","×","villosa","","","Huds.","Accepted","Mentha × villosa  ",FALSE
+"Mentha x villosonervata","","","Mentha","","villosonervata",NA,"","","","Mentha  villosonervata",FALSE
+"Muscari botryoides","Accepted","Asparagaceae","Muscari","","botryoides","","","(L.) Mill.","Accepted","Muscari  botryoides  ",FALSE
+"Myosotis sylvatica","Accepted","Boraginaceae","Myosotis","","sylvatica","","","Hoffm.","Accepted","Myosotis  sylvatica  ",FALSE
+"Myrrhis odorata","Accepted","Apiaceae","Myrrhis","","odorata","","","(L.) Scop.","Accepted","Myrrhis  odorata  ",TRUE
+"Narcissus poeticus var recurvus","Synonym","Amaryllidaceae","Narcissus","","poeticus","","","L.","Accepted","Narcissus  poeticus  ",FALSE
+"Narcissus pseudonarcissus var silvestris","Accepted","Amaryllidaceae","Narcissus","","pseudonarcissus","","","L.","Accepted","Narcissus  pseudonarcissus  ",FALSE
+"Nasturtium microphyllum","Accepted","Brassicaceae","Nasturtium","","microphyllum","","","(Boenn. ex Rchb.) Rchb.","Accepted","Nasturtium  microphyllum  ",FALSE
+"Nasturtium officinalis","Accepted","Brassicaceae","Nasturtium","","officinale","","","R.Br.","Accepted","Nasturtium  officinale  ",FALSE
+"Nepeta cataria","Accepted","Lamiaceae","Nepeta","","cataria","","","L.","Accepted","Nepeta  cataria  ",FALSE
+"Nicotiana rustica","Accepted","Solanaceae","Nicotiana","","rustica","","","L.","Accepted","Nicotiana  rustica  ",FALSE
+"Oenothera biennis","Accepted","Onagraceae","Oenothera","","biennis","","","L.","Accepted","Oenothera  biennis  ",FALSE
+"Onopordum acanthium","Accepted","Compositae","Onopordum","","acanthium","","","L.","Accepted","Onopordum  acanthium  ",FALSE
+"Origanum vulgare","Accepted","Lamiaceae","Origanum","","vulgare","","","L.","Accepted","Origanum  vulgare  ",FALSE
+"Ornithogalum nutans","Accepted","Asparagaceae","Ornithogalum","","nutans","","","L.","Accepted","Ornithogalum  nutans  ",TRUE
+"Ornithogalum umbellatum","Accepted","Asparagaceae","Ornithogalum","","umbellatum","","","L.","Accepted","Ornithogalum  umbellatum  ",FALSE
+"Paeonia officinalis","Accepted","Paeoniaceae","Paeonia","","officinalis","","","L.","Accepted","Paeonia  officinalis  ",FALSE
+"Papaver rhoeas","Accepted","Papaveraceae","Papaver","","rhoeas","","","L.","Accepted","Papaver  rhoeas  ",FALSE
+"Papaver somniferum","Accepted","Papaveraceae","Papaver","","somniferum","","","L.","Accepted","Papaver  somniferum  ",TRUE
+"Parietaria officinalis","Accepted","Urticaceae","Parietaria","","officinalis","","","L.","Accepted","Parietaria  officinalis  ",FALSE
+"Paris quadrifolia","Accepted","Melanthiaceae","Paris","","quadrifolia","","","L.","Accepted","Paris  quadrifolia  ",FALSE
+"Pastinaca sativa","Accepted","Apiaceae","Pastinaca","","sativa","","","L.","Accepted","Pastinaca  sativa  ",FALSE
+"Petasites albus","Accepted","Compositae","Petasites","","albus","","","(L.) Gaertn.","Accepted","Petasites  albus  ",FALSE
+"Petasites hybridus","Accepted","Compositae","Petasites","","hybridus","","","(L.) ""G.Gaertn., B.Mey. & Scherb.""","Accepted","Petasites  hybridus  ",FALSE
+"Petroselinum crispum var. vulgare","Synonym","Apiaceae","Petroselinum","","crispum","","","(Mill.) Fuss","Accepted","Petroselinum  crispum  ",FALSE
+"Peucedanum ostruthium","Accepted","Apiaceae","Peucedanum","","ostruthium","","","(L.) W.D.J.Koch","Accepted","Peucedanum  ostruthium  ",TRUE
+"Phyllitis scolopendrium","Synonym","Aspleniaceae","Asplenium","","scolopendrium","","","L.","Accepted","Asplenium  scolopendrium  ",FALSE
+"Physalis alkekengi","Accepted","Solanaceae","Physalis","","alkekengi","","","L.","Accepted","Physalis  alkekengi  ",FALSE
+"Polemonium caeruleum","Accepted","Polemoniaceae","Polemonium","","caeruleum","","","L.","Accepted","Polemonium  caeruleum  ",TRUE
+"Polygonatum multiflorum","Accepted","Asparagaceae","Polygonatum","","multiflorum","","","(L.) All.","Accepted","Polygonatum  multiflorum  ",FALSE
+"Polygonum bistorta","Synonym","Polygonaceae","Persicaria","","bistorta","","","(L.) Samp.","Accepted","Persicaria  bistorta  ",FALSE
+"Primula elatior","Accepted","Primulaceae","Primula","","elatior","","","(L.) Hill","Accepted","Primula  elatior  ",FALSE
+"Primula veris","Accepted","Primulaceae","Primula","","veris","","","L.","Accepted","Primula  veris  ",FALSE
+"Primula vulgaris","Accepted","Primulaceae","Primula","","vulgaris","","","Huds.","Accepted","Primula  vulgaris  ",FALSE
+"Prunus avium","Accepted","Rosaceae","Prunus","","avium","","","(L.) L.","Accepted","Prunus  avium  ",FALSE
+"Prunus cerasus","Accepted","Rosaceae","Prunus","","cerasus","","","L.","Accepted","Prunus  cerasus  ",FALSE
+"Prunus domestica ssp. insititia","Accepted","Rosaceae","Prunus","","domestica","subsp.","insititia","(L.) Bonnier & Layens","Accepted","Prunus  domestica subsp. insititia",FALSE
+"Prunus padus","Accepted","Rosaceae","Prunus","","padus","","","L.","Accepted","Prunus  padus  ",FALSE
+"Pulmonaria obscura","Accepted","Boraginaceae","Pulmonaria","","obscura","","","Dumort.","Accepted","Pulmonaria  obscura  ",FALSE
+"Reseda luteola","Accepted","Resedaceae","Reseda","","luteola","","","L.","Accepted","Reseda  luteola  ",FALSE
+"Ribes nigrum","Accepted","Grossulariaceae","Ribes","","nigrum","","","L.","Accepted","Ribes  nigrum  ",FALSE
+"Ribes rubrum ssp. sylvestre","Synonym","Grossulariaceae","Ribes","","spicatum","","","Robson","Accepted","Ribes  spicatum  ",FALSE
+"Ribes uva-crispa","Accepted","Grossulariaceae","Ribes","","uva-crispa","","","L.","Accepted","Ribes  uva-crispa  ",FALSE
+"Rosa majalis var. foecundissima","Synonym","Rosaceae","Rosa","","majalis","","","Herrm.","Accepted","Rosa  majalis  ",FALSE
+"Rosa pimpinellifolia","Synonym","Rosaceae","Rosa","","xanthina","","","Lindl.","Accepted","Rosa  xanthina  ",FALSE
+"Rosa x alba","Synonym","Rosaceae","Rosa","","alba","","","L.","Accepted","Rosa  alba  ",FALSE
+"Rubus fruticosus","Synonym","Rosaceae","Rubus","","vestitus","","","Weihe","Accepted","Rubus  vestitus  ",FALSE
+"Rubus idaeus","Accepted","Rosaceae","Rubus","","idaeus","","","L.","Accepted","Rubus  idaeus  ",FALSE
+"Rumex x longifolius","Accepted","Polygonaceae","Rumex","","longifolius","","","DC.","Accepted","Rumex  longifolius  ",FALSE
+"Rumex obtusifolius","Accepted","Polygonaceae","Rumex","","obtusifolius","","","L.","Accepted","Rumex  obtusifolius  ",FALSE
+"Sambucus ebulus","Accepted","Adoxaceae","Sambucus","","ebulus","","","L.","Accepted","Sambucus  ebulus  ",FALSE
+"Sambucus nigra","Accepted","Adoxaceae","Sambucus","","nigra","","","L.","Accepted","Sambucus  nigra  ",FALSE
+"Sanguisorba minor ssp. minor","Synonym","Rosaceae","Sanguisorba","","minor","","","Scop.","Accepted","Sanguisorba  minor  ",TRUE
+"Sanguisorba officinalis","Accepted","Rosaceae","Sanguisorba","","officinalis","","","L.","Accepted","Sanguisorba  officinalis  ",TRUE
+"Saponaria officinalis","Accepted","Caryophyllaceae","Saponaria","","officinalis","","","L.","Accepted","Saponaria  officinalis  ",TRUE
+"Scilla amoena","Accepted","Asparagaceae","Scilla","","amoena","","","L.","Accepted","Scilla  amoena  ",FALSE
+"Scilla italica","Synonym","Asparagaceae","Hyacinthoides","","italica","","","(L.) Rothm.","Accepted","Hyacinthoides  italica  ",FALSE
+"Scilla non-scripta","","","Scilla","","non-scripta",NA,"","","","Scilla  non-scripta",FALSE
+"Scopolia carniolica","Accepted","Solanaceae","Scopolia","","carniolica","","","Jacq.","Accepted","Scopolia  carniolica  ",FALSE
+"Scorzonera hispanica","Accepted","Compositae","Scorzonera","","hispanica","","","L.","Accepted","Scorzonera  hispanica  ",TRUE
+"Scrophularia vernalis","Accepted","Scrophulariaceae","Scrophularia","","vernalis","","","L.","Accepted","Scrophularia  vernalis  ",TRUE
+"Sedum acre","Accepted","Crassulaceae","Sedum","","acre","","","L.","Accepted","Sedum  acre  ",FALSE
+"Sedum album","Accepted","Crassulaceae","Sedum","","album","","","L.","Accepted","Sedum  album  ",FALSE
+"Sedum rupestre","Accepted","Crassulaceae","Sedum","","rupestre","","","L.","Accepted","Sedum  rupestre  ",FALSE
+"Sedum sexangulare","Accepted","Crassulaceae","Sedum","","sexangulare","","","L.","Accepted","Sedum  sexangulare  ",FALSE
+"Sedum telephium ssp. maximum","Synonym","Crassulaceae","Sedum","","maximum","","","Hoffm.","Unresolved","Sedum  maximum  ",FALSE
+"Sedum telephium ssp. telephium","Accepted","Crassulaceae","Sedum","","telephium","","","L.","Accepted","Sedum  telephium  ",FALSE
+"Sempervivum arachnoideum","Accepted","Crassulaceae","Sempervivum","","arachnoideum","","","L.","Accepted","Sempervivum  arachnoideum  ",FALSE
+"Sempervivum tectorum","Accepted","Crassulaceae","Sempervivum","","tectorum","","","L.","Accepted","Sempervivum  tectorum  ",FALSE
+"Silybum marianum","Accepted","Compositae","Silybum","","marianum","","","(L.) Gaertn.","Accepted","Silybum  marianum  ",TRUE
+"Smyrnium perfoliatum","Accepted","Apiaceae","Smyrnium","","perfoliatum","","","L.","Accepted","Smyrnium  perfoliatum  ",FALSE
+"Stachys officinalis","Accepted","Lamiaceae","Stachys","","officinalis","","","(L.) Trevis.","Accepted","Stachys  officinalis  ",TRUE
+"Symphytum asperum","Accepted","Boraginaceae","Symphytum","","asperum","","","Lepech.","Accepted","Symphytum  asperum  ",FALSE
+"Symphytum officinale","Accepted","Boraginaceae","Symphytum","","officinale","","","L.","Accepted","Symphytum  officinale  ",TRUE
+"Tanacetum balsamita","Accepted","Compositae","Tanacetum","","balsamita","","","L.","Accepted","Tanacetum  balsamita  ",TRUE
+"Tanacetum macrophyllum","Accepted","Compositae","Tanacetum","","macrophyllum","","","(Waldst. & Kit.) Sch.Bip.","Accepted","Tanacetum  macrophyllum  ",FALSE
+"Tanacetum parthenium","Accepted","Compositae","Tanacetum","","parthenium","","","(L.) Sch.Bip.","Accepted","Tanacetum  parthenium  ",FALSE
+"Tanacetum vulgare","Accepted","Compositae","Tanacetum","","vulgare","","","L.","Accepted","Tanacetum  vulgare  ",TRUE
+"Tanacetum vulgare var crispum","Synonym","Compositae","Tanacetum","","vulgare","","","L.","Accepted","Tanacetum  vulgare  ",TRUE
+"Tragopogon porrifolius","Accepted","Compositae","Tragopogon","","porrifolius","","","L.","Accepted","Tragopogon  porrifolius  ",FALSE
+"Tulipa sylvestris","Accepted","Liliaceae","Tulipa","","sylvestris","","","L.","Accepted","Tulipa  sylvestris  ",FALSE
+"Turritis glabra","Accepted","Brassicaceae","Turritis","","glabra","","","L.","Accepted","Turritis  glabra  ",FALSE
+"Urtica dioica","Accepted","Urticaceae","Urtica","","dioica","","","L.","Accepted","Urtica  dioica  ",FALSE
+"Valeriana officinalis","Accepted","Caprifoliaceae","Valeriana","","officinalis","","","L.","Accepted","Valeriana  officinalis  ",TRUE
+"Valerianella locusta","Accepted","Caprifoliaceae","Valerianella","","locusta","","","(L.) Laterr.","Accepted","Valerianella  locusta  ",FALSE
+"Veratrum album","Accepted","Melanthiaceae","Veratrum","","album","","","L.","Accepted","Veratrum  album  ",FALSE
+"Verbascum densiflorum","Accepted","Scrophulariaceae","Verbascum","","densiflorum","","","Bertol.","Accepted","Verbascum  densiflorum  ",FALSE
+"Verbascum lychnitis","Accepted","Scrophulariaceae","Verbascum","","lychnitis","","","L.","Accepted","Verbascum  lychnitis  ",FALSE
+"Verbascum nigrum","Accepted","Scrophulariaceae","Verbascum","","nigrum","","","L.","Accepted","Verbascum  nigrum  ",FALSE
+"Verbascum phlomoides","Accepted","Scrophulariaceae","Verbascum","","phlomoides","","","L.","Accepted","Verbascum  phlomoides  ",FALSE
+"Verbascum thapsus","Accepted","Scrophulariaceae","Verbascum","","thapsus","","","L.","Accepted","Verbascum  thapsus  ",TRUE
+"Verbena officinalis","Accepted","Verbenaceae","Verbena","","officinalis","","","L.","Accepted","Verbena  officinalis  ",TRUE
+"Veronica longifolia","Accepted","Plantaginaceae","Veronica","","longifolia","","","L.","Accepted","Veronica  longifolia  ",FALSE
+"Vinca minor","Accepted","Apocynaceae","Vinca","","minor","","","L.","Accepted","Vinca  minor  ",FALSE
+"Vincetoxicum hirundinaria","Accepted","Apocynaceae","Vincetoxicum","","hirundinaria","","","Medik.","Accepted","Vincetoxicum  hirundinaria  ",TRUE
+"Viola odorata","Accepted","Violaceae","Viola","","odorata","","","L.","Accepted","Viola  odorata  ",FALSE
