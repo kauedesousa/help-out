@@ -1,6 +1,9 @@
+# number of observations
 n <- 20
 
-#vector with 8-day dates
+# vector with 8-day dates
+# run over these years
+# for modis it should always start in Jan-01
 dates <- NULL
 for(i in c(2003:2004)){
   dates <- c(dates, c(seq(as.Date(paste0(i, "-01-01"), "%Y-%m-%d"), 
@@ -15,14 +18,15 @@ full_dates <- seq(dates[1], dates[length(dates)], 1)
 
 # generate some random numbers
 nv <- n*length(dates)
-set.seed(1234)
 
+set.seed(1234)
 day <- rnorm(nv, 33, 3)
 
 set.seed(4321)
 day <- rnorm(nv, 25, 3)
 
-# 2 layers array with NAs
+# 2 layers array
+# fill it with the generated data
 modis <- array(c(day, night), 
                dim = c(n, length(dates), 2), 
                dimnames = list(1:n, as.character(dates), c(1:2)))
