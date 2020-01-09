@@ -19,11 +19,11 @@ full_dates <- seq(dates[1], dates[length(dates)], 1)
 # generate some random numbers
 nv <- n*length(dates)
 
-set.seed(1234)
-day <- rnorm(nv, 33, 3)
+set.seed(12)
+day <- rnorm(nv, 33, 1)
 
-set.seed(4321)
-day <- rnorm(nv, 25, 3)
+set.seed(12)
+night <- rnorm(nv, 25, 1)
 
 # 2 layers array
 # fill it with the generated data
@@ -46,7 +46,7 @@ for(i in 1:dim(modis)[1]){
 }
 
 
-# check how the interpolation was done
+# check in the first line how the interpolation was done
 x <- !dimnames(modis_approx)[[2]] %in% dimnames(modis)[[2]]
 y <- modis_approx[1, ,1] 
 y[x] <- NA
